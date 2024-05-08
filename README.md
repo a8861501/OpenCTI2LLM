@@ -2,7 +2,7 @@
 Produce Suricata rule with ChatGPT3.5 turbo by exporting report from OpenCTI
 
 ## Install 
-- [OpenCTI](https://ithelp.ithome.com.tw/articles/10336576)
+- [How to install OpenCTI](https://ithelp.ithome.com.tw/articles/10336576)
 
 ## Prepare
 ```bash
