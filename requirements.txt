@@ -1,0 +1,5 @@
+pycti
+langchain
+openai
+streamlit
+python-dotenv
