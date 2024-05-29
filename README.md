@@ -10,7 +10,9 @@ Produce Suricata rule with ChatGPT3.5 turbo by exporting report from OpenCTI
 $ cd (to this repository)
 $ pip install -r requirements.txt
 ```
-- Put OpenAI api in .env file
+- Add a .env file and Put OpenAI api in .env file
+
+` OPENAI_API_KEY = *****`
 - Change opencti_api_client variable in api.py : OpenCTIApiClient('url','OPENCTI_ADMIN_TOKEN')
 ## Use
 ```bash
